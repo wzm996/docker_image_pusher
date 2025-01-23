@@ -8,3 +8,4 @@
 nginx
 mysql
 centos
+open-webui
