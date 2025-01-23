@@ -8,4 +8,4 @@
 nginx
 mysql
 centos
-open-webui
+ghcr.io/open-webui
