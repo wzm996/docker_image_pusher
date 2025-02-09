@@ -9,3 +9,4 @@ nginx
 mysql
 centos
 ghcr.io/open-webui/open-webui:main
+golang:1.23-alpine
